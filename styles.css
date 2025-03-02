@@ -93,7 +93,8 @@ nav {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(to right, #ff8c00, #ffcc00); /* Orange to Yellow */
+    background-image: url('images/engineering.jpg');
+    background-repeat: no-repeat;
     color: white;
     text-align: center;
     padding: 100px 20px;
