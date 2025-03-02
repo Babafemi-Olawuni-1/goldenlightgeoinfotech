@@ -93,11 +93,10 @@ nav {
 
 /* Hero Section */
 .hero {
-    background-image: url('images/mapping.jpg') ;
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding: 200px 20px;
+    background: linear-gradient(to right, #ff8c00, #ffcc00); /* Orange to Yellow */
     color: white;
+    text-align: center;
+    padding: 100px 20px;
 }
 
 .hero h2 {
